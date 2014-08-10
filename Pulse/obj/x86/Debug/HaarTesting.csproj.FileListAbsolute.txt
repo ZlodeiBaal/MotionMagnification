@@ -1,0 +1,11 @@
+C:\distr\MyProjects\HaarTesting\HaarTesting\HaarTesting\bin\Debug\HaarTesting.exe
+C:\distr\MyProjects\HaarTesting\HaarTesting\HaarTesting\bin\Debug\HaarTesting.pdb
+C:\distr\MyProjects\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\distr\MyProjects\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTesting.Form1.resources
+C:\distr\MyProjects\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTesting.Properties.Resources.resources
+C:\distr\MyProjects\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\distr\MyProjects\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\distr\MyProjects\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTesting.exe
+C:\distr\MyProjects\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTesting.pdb
+C:\distr\MyProjects\FacePulse\HaarTesting\obj\x86\Debug\HaarTesting.exe
+C:\distr\MyProjects\FacePulse\HaarTesting\obj\x86\Debug\HaarTesting.pdb
