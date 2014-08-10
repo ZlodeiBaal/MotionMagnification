@@ -1,5 +1,5 @@
-Усиление движения, написанное по мотивам статьи "Eulerian Video Magnification for Revealing Subtle Changes in the World" - http://people.csail.mit.edu/mrub/vidmag/
-Перед стартом в папке "Pulse\bin\Debug" распакуйте архив OPENCV_DLL.rar, содержащий OpenCV библиотеки (они были слишком большие, чтобы пихать их на ГитХаб нераспакованными).
+РЈСЃРёР»РµРЅРёРµ РґРІРёР¶РµРЅРёСЏ, РЅР°РїРёСЃР°РЅРЅРѕРµ РїРѕ РјРѕС‚РёРІР°Рј СЃС‚Р°С‚СЊРё "Eulerian Video Magnification for Revealing Subtle Changes in the World" - http://people.csail.mit.edu/mrub/vidmag/
+РџРµСЂРµРґ СЃС‚Р°СЂС‚РѕРј РІ РїР°РїРєРµ "Pulse\bin\Debug" СЂР°СЃРїР°РєСѓР№С‚Рµ Р°СЂС…РёРІ OPENCV_DLL.rar, СЃРѕРґРµСЂР¶Р°С‰РёР№ OpenCV Р±РёР±Р»РёРѕС‚РµРєРё (РѕРЅРё Р±С‹Р»Рё СЃР»РёС€РєРѕРј Р±РѕР»СЊС€РёРµ, С‡С‚РѕР±С‹ РїРёС…Р°С‚СЊ РёС… РЅР° Р“РёС‚РҐР°Р± РЅРµСЂР°СЃРїР°РєРѕРІР°РЅРЅС‹РјРё).
 
 Motion magnification, that write near to that text - "Eulerian Video Magnification for Revealing Subtle Changes in the World" - http://people.csail.mit.edu/mrub/vidmag/
 Before start unpack OPENCV_DLL.rar from "Pulse\bin\Debug" foulder (it's too big for GitHub in unpacked version).
